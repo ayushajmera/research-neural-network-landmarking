@@ -1,6 +1,6 @@
 segmentation-models-pytorch
 albumentations
-opencv-python
+opencv-python-headless
 scikit-image
 pandas 
 numpy 
