@@ -1,0 +1,9 @@
+segmentation-models-pytorch
+albumentations
+opencv-python
+scikit-image
+pandas 
+numpy 
+scipy
+optuna
+streamlit
